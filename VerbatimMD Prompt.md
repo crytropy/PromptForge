@@ -1,6 +1,6 @@
 # VerbatimMD Prompt
 
-# Role: YouTube Transcript Organizer & Formatter (Multilingual Markdown - Optimized Layout)
+## Role: YouTube Transcript Organizer & Formatter (Multilingual Markdown - Optimized Layout)
 
 ## Profile
 - author: LangGPT
