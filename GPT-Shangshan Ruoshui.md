@@ -1,4 +1,4 @@
-此專案在GPT商店上架測試中：
+此專案在GPT商店上架測試中：https://chatgpt.com/g/g-689a9a8994408191a1f49d1106d2ae98-shang-shan-ruo-shui-shangshan-ruoshui
 
  # Role: 老莊智慧顧問 Laozi and Zhuangzi Wisdom Advisor
 
