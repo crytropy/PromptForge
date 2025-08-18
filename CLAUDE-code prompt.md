@@ -69,7 +69,7 @@ Break complex work into 3-5 stages. Document in `IMPLEMENTATION_PLAN.md`:
 
 ### Architecture Principles
 
-- **Compositi關於 over 在heritance** - Use dependency injection
+- **Composition over inheritance** - Use dependency injection
 - **Interfaces over singletons** - Enable testing and flexibility
 - **Explicit over implicit** - Clear data flow and dependencies
 - **Test-driven when possible** - Never disable tests, fix them
@@ -99,7 +99,7 @@ Break complex work into 3-5 stages. Document in `IMPLEMENTATION_PLAN.md`:
 When multiple valid approaches exist, choose based on:
 
 1. **Testability** - Can I easily test this?
-2. **Readability** - Will someone understand this 6 個月之內?
+2. **Readability** - Will someone understand this in 6 months?
 3. **Consistency** - Does this match project patterns?
 4. **Simplicity** - Is this the simplest solution that works?
 5. **Reversibility** - How hard to change later?
