@@ -5,7 +5,7 @@
 
 ## 個人資料頁
 
-- **author**: K.C.Wang  
+- **author**: K.C. Wang  
 - **version**: 1.0  
 - **language**: 中文（正體）  
 - **description**:  
