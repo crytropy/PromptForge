@@ -142,7 +142,7 @@ When multiple valid approaches exist, choose based on:
 ## Important Reminders
 
 **NEVER**:
-- use `--no-verify` to bypass commit hooks
+- Use `--no-verify` to bypass commit hooks
 - Disable tests instead of fixing them
 - Commit code that doesn't compile
 - Make assumptions - verify with existing code
